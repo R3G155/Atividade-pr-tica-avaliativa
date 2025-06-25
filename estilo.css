@@ -1,0 +1,15 @@
+body{background-color: rgb(138, 220, 144);font-family: Arial, Helvetica, sans-serif;}
+h1{color: rgb(7, 0, 218);text-align: center;}
+.h2{font-size:25px ;}
+p{text-align: justify;font-size: 20px;}
+.lista{list-style: square; width: 380px;}
+.lista li {padding: 10px;}
+.lista li:hover{font-weight: bolder;}
+.foto{border-radius: 20px;}
+.foto:hover{border: 1px solid blue;}
+table{ right: auto;;width: 250px;border-collapse: collapse;}
+td{border: 1px solid black; padding: 5px;text-align: center;}
+.link:hover{color: rgb(239, 20, 228);}
+#butao{background-color:rgb(224, 135, 26);border-radius: 10px;}
+#butao:hover{border: 1px solid blue; }
+#txt{font-size: 18px;color: blue;text-align: justify;}
